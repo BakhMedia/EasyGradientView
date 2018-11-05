@@ -29,7 +29,7 @@ Pod::Spec.new do |spec|
   spec.description = "UIView with gradient background two clicks. Easy with IBInspectable."
 
   spec.homepage     = "https://github.com/BakhMedia/EasyGradientView"
-  # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
+  spec.screenshots  = "https://raw.githubusercontent.com/BakhMedia/EasyGradientView/1.0/show.gif"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
