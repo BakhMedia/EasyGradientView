@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "EasyGradientView"
-  spec.version      = "1.0"
+  spec.version      = "1.1"
   spec.summary      = "UIView with gradient background. Easy with IBInspectable."
   spec.swift_version = "4.2"
   # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ Pod::Spec.new do |spec|
   spec.description = "UIView with gradient background two clicks. Easy with IBInspectable."
 
   spec.homepage     = "https://github.com/BakhMedia/EasyGradientView"
-  spec.screenshots  = "https://raw.githubusercontent.com/BakhMedia/EasyGradientView/1.0/show.png"
+  spec.screenshots  = "https://raw.githubusercontent.com/BakhMedia/EasyGradientView/1.1/show.png"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
